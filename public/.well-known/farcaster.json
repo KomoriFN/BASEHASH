@@ -12,7 +12,7 @@
     "splashImageUrl": "https://basehash.vercel.app/splash.png",
     "splashBackgroundColor": "#000000",
     "subtitle": "Mine & Earn BH",
-    "description": "Mine BASEHASH tokens, compete for blocks, and upgrade your mining operation in this cyberpunk-themed mini app on Base.",
+    "description": "Mine BASEHASH tokens, compete for blocks, and upgrade your mining operation in this mini app on Base.",
     "screenshotUrls": [
       "https://basehash.vercel.app/screenshot1.png",
       "https://basehash.vercel.app/screenshot2.png",
@@ -23,7 +23,7 @@
     "heroImageUrl": "https://basehash.vercel.app/hero.png",
     "tagline": "MINING GAME",
     "ogTitle": "BASEHASH - Mining Game on Base",
-    "ogDescription": "Mine tokens, find blocks, and upgrade your rig in this cyberpunk mining game.",
+    "ogDescription": "Mine tokens, find blocks, and upgrade your rig mining game.",
     "ogImageUrl": "https://basehash.vercel.app/og-image.png",
     "noindex": false
   }
