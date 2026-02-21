@@ -2,29 +2,16 @@
   "accountAssociation": {
     "header": "eyJmaWQiOjE0ODUyNjksInR5cGUiOiJhdXRoIiwia2V5IjoiMHhlMGRlOTM5MTU1YzI0MzU2RUU3QjQ2NDJBM2IzRTFGNGMwN2UxNzUwIn0",
     "payload": "eyJkb21haW4iOiJiYXNlaGFzaC52ZXJjZWwuYXBwIn0",
-    "signature": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB0xZk_jLCEaG8f06Ncf7OEBXIaK8NC_0Igb_-HxkmMcYq9cM-tz2jit9jzNsfcqS4zrQiz7zxn4yq0TY2p3pWmwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAl8ZgIay2xclZzG8RWZzuWvO8j9R0fus3XxDee9lRlVy8FAAAADgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACKeyJ0eXBlIjoid2ViYXV0aG4uZ2V0IiwiY2hhbGxlbmdlIjoib2NySVl4V3BIQ3VGMjk0akRjTnhQTk82RmZpZi1wRmNZaEhQVGhjdDRLOCIsIm9yaWdpbiI6Imh0dHBzOi8va2V5cy5jb2luYmFzZS5jb20iLCJjcm9zc09yaWdpbiI6ZmFsc2V9AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
-  }
+    "signature": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABCN7TcFnRSOPn1QdoFMKhP1PbHso_t9NcnFkwRthTdhQtljyribz-LU5dBW6893uCRQ-1sZSPaClaOfcpTUyWjgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAl8ZgIay2xclZzG8RWZzuWvO8j9R0fus3XxDee9lRlVy8FAAAADwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACKeyJ0eXBlIjoid2ViYXV0aG4uZ2V0IiwiY2hhbGxlbmdlIjoib2NySVl4V3BIQ3VGMjk0akRjTnhQTk82RmZpZi1wRmNZaEhQVGhjdDRLOCIsIm9yaWdpbiI6Imh0dHBzOi8va2V5cy5jb2luYmFzZS5jb20iLCJjcm9zc09yaWdpbiI6ZmFsc2V9AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+  },
   "miniapp": {
     "version": "1",
-    "name": "BASEHASH",
-    "homeUrl": "https://basehash.vercel.app",
+    "name": "BaseHash",
     "iconUrl": "https://basehash.vercel.app/icon.png",
+    "homeUrl": "https://basehash.vercel.app",
+    "imageUrl": "https://basehash.vercel.app/og.png",
+    "buttonTitle": "Open App",
     "splashImageUrl": "https://basehash.vercel.app/splash.png",
-    "splashBackgroundColor": "#000000",
-    "subtitle": "Mine & Earn BH",
-    "description": "Mine BASEHASH tokens, compete for blocks, and upgrade your mining operation in this mini app on Base.",
-    "screenshotUrls": [
-      "https://basehash.vercel.app/screenshot1.png",
-      "https://basehash.vercel.app/screenshot2.png",
-      "https://basehash.vercel.app/screenshot3.png"
-    ],
-    "primaryCategory": "games",
-    "tags": ["mining", "crypto", "game", "base", "bitcoin"],
-    "heroImageUrl": "https://basehash.vercel.app/hero.png",
-    "tagline": "MINING GAME",
-    "ogTitle": "BASEHASH - Mining Game on Base",
-    "ogDescription": "Mine tokens, find blocks, and upgrade your rig mining game.",
-    "ogImageUrl": "https://basehash.vercel.app/og-image.png",
-    "noindex": false
+    "splashBackgroundColor": "#000000"
   }
 }
